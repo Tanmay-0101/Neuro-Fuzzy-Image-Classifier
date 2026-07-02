@@ -41,6 +41,6 @@ pip install tensorflow numpy matplotlib scikit-learn seaborn
 ```
 
 ## Repository Artifacts
-* `Fuzzy_CNN.ipynb` — Complete deployment script (Data cleaning, Custom Layers, Fitting, and Evaluation Analytics).
+* `nfuzz.py` — Complete script (Data cleaning, Custom Layers, Fitting).
 * `Soft_Computing_Presentation.pdf` — Explanatory project deck detailing theoretical fuzzy definitions and training validation charts.
 
