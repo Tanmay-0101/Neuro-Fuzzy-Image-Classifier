@@ -42,5 +42,5 @@ pip install tensorflow numpy matplotlib scikit-learn seaborn
 
 ## Repository Artifacts
 * `nfuzz.py` — Complete script (Data cleaning, Custom Layers, Fitting).
-* `Soft_Computing_Presentation.pdf` — Explanatory project deck detailing theoretical fuzzy definitions and training validation charts.
+* `CSE-458 Project.pdf` — Explanatory project deck detailing theoretical fuzzy definitions and training validation charts.
 
